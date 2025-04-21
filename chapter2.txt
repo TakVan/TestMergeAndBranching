@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+Hell World.->..new added text
+>>>>>>> newBranch
